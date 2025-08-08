@@ -11,8 +11,7 @@ I build real apps with clean architecture and scalable backend logic.
 A Japanese craft catalog app built with Angular + Tailwind CSS, ASP.NET Core API (CQRS, DTOs, MediatR), and MongoDB.  
 Features include role-based auth, admin dashboard, file uploads, and user-specific data.
 
-### [KotoKatsuyou](https://github.com/KobenjiSan/KotoKatsuyou)  
-### [KotoKatsuyou-API](https://github.com/KobenjiSan/katsuyou-api) 
+### [KotoKatsuyou](https://github.com/KobenjiSan/KotoKatsuyou) [KotoKatsuyou-API](https://github.com/KobenjiSan/katsuyou-api) 
 A Japanese verb conjugation app built with React + Express + MongoDB. Generates conjugation charts with example sentences.
 
 ---
