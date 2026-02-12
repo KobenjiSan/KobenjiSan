@@ -1,18 +1,13 @@
-## Hey, I'm **Sam Keller**
+## Sam Keller 🇯🇵
 
-I'm a full-stack student dev focused on **Angular**, **ASP.NET Core**, and **MongoDB**.  
-I build apps with clean architecture and scalable backend logic.
+Full-stack developer focused on scalable web apps and APIs.
 
----
-I'm looking for opportunities where I can:
+**Stack**
+- React, Next.js, Angular  
+- ASP.NET Core, Node.js  
+- SQL (PostgreSQL), MongoDB  
 
-- Contribute to real full-stack projects
-- Work with teams who care about code quality and maintainability
-- Keep learning, stay humble, and solve problems
-
-*Available for internships, remote roles, or junior developer positions.*
-
----
+Built cultural and data-driven apps with auth, RBAC, and REST APIs.
 
 **[LinkedIn](https://www.linkedin.com/in/samuel-keller-5b97a51b4)** |
 **[samuelgkeller@gmail.com ](mailto:samuelgkeller@gmail.com)**
