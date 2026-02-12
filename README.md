@@ -1,4 +1,4 @@
-## Sam Keller 🇯🇵
+## Sam Keller
 
 Full-stack developer focused on scalable web apps and APIs.
 
